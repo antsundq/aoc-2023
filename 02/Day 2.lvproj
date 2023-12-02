@@ -15,7 +15,8 @@
 		<Item Name="Bag.lvclass" Type="LVClass" URL="../Bag/Bag.lvclass"/>
 		<Item Name="Game.lvclass" Type="LVClass" URL="../Game/Game.lvclass"/>
 		<Item Name="Game Test.lvclass" Type="LVClass" URL="../Game Test/Game Test.lvclass"/>
-		<Item Name="Evaluator.vi" Type="VI" URL="../Evaluator.vi"/>
+		<Item Name="Evaluate Part 1.vi" Type="VI" URL="../Evaluate Part 1.vi"/>
+		<Item Name="Evaluate Part 2.vi" Type="VI" URL="../Evaluate Part 2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="1D String Array to Delimited String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/1D String Array to Delimited String.vi"/>
