@@ -13,6 +13,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Day 5 Test.lvclass" Type="LVClass" URL="../Day X Test/Day 5 Test.lvclass"/>
 		<Item Name="Evaluate Part 1.vi" Type="VI" URL="../Evaluate Part 1.vi"/>
+		<Item Name="Evaluate Part 2.vi" Type="VI" URL="../Evaluate Part 2.vi"/>
 		<Item Name="Map.lvclass" Type="LVClass" URL="../Map/Map.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
