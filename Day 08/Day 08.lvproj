@@ -14,6 +14,7 @@
 		<Item Name="Day X Test.lvclass" Type="LVClass" URL="../Day X Test/Day X Test.lvclass"/>
 		<Item Name="Evaluate Part 1.vi" Type="VI" URL="../Evaluate Part 1.vi"/>
 		<Item Name="Evaluate Part 2.vi" Type="VI" URL="../Evaluate Part 2.vi"/>
+		<Item Name="Evaluate Part 2_2.vi" Type="VI" URL="../Evaluate Part 2_2.vi"/>
 		<Item Name="Network.lvclass" Type="LVClass" URL="../Network/Network.lvclass"/>
 		<Item Name="Stateless Network.lvclass" Type="LVClass" URL="../Stateless Network/Stateless Network.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
