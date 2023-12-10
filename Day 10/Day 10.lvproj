@@ -13,8 +13,9 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Day X Test.lvclass" Type="LVClass" URL="../Day X Test/Day X Test.lvclass"/>
 		<Item Name="Evaluate Part 1.vi" Type="VI" URL="../Evaluate Part 1.vi"/>
+		<Item Name="Evaluate Part 2.vi" Type="VI" URL="../Evaluate Part 2.vi"/>
 		<Item Name="Helpers.lvlib" Type="Library" URL="../../Helpers/Helpers.lvlib"/>
-		<Item Name="Map.lvclass" Type="LVClass" URL="../Map/Map.lvclass"/>
+		<Item Name="Maze.lvclass" Type="LVClass" URL="../Map/Maze.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="1D String Array to Delimited String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/1D String Array to Delimited String.vi"/>
