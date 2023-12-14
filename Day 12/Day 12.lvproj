@@ -15,7 +15,10 @@
 		<Item Name="Evaluate Part 2.vi" Type="VI" URL="../Evaluate Part 2.vi"/>
 		<Item Name="Group.lvclass" Type="LVClass" URL="../Proto/Group.lvclass"/>
 		<Item Name="Helpers.lvlib" Type="Library" URL="../../Helpers/Helpers.lvlib"/>
+		<Item Name="Parse Groups Part 2.vi" Type="VI" URL="../Proto/Parse Groups Part 2.vi"/>
+		<Item Name="Parse Groups.vi" Type="VI" URL="../Proto/Parse Groups.vi"/>
 		<Item Name="Tests Rev2.lvclass" Type="LVClass" URL="../Tests Rev2/Tests Rev2.lvclass"/>
+		<Item Name="Tests Rev3.lvclass" Type="LVClass" URL="../Tests Rev3/Tests Rev3.lvclass"/>
 		<Item Name="Tests.lvclass" Type="LVClass" URL="../Tests/Tests.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
