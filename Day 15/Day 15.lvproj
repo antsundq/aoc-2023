@@ -15,7 +15,7 @@
 		<Item Name="Evaluate Part 2.vi" Type="VI" URL="../Evaluate Part 2.vi"/>
 		<Item Name="Hash.vi" Type="VI" URL="../Hash.vi"/>
 		<Item Name="Helpers.lvlib" Type="Library" URL="../../Helpers/Helpers.lvlib"/>
-		<Item Name="Proto.lvclass" Type="LVClass" URL="../Proto/Proto.lvclass"/>
+		<Item Name="Instruction.lvclass" Type="LVClass" URL="../Proto/Instruction.lvclass"/>
 		<Item Name="Tests.lvclass" Type="LVClass" URL="../Tests/Tests.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
