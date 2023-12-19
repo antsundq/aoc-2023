@@ -12,6 +12,7 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Evaluate Part 1.vi" Type="VI" URL="../Evaluate Part 1.vi"/>
+		<Item Name="Evaluate Part 2.vi" Type="VI" URL="../Evaluate Part 2.vi"/>
 		<Item Name="Helpers.lvlib" Type="Library" URL="../../Helpers/Helpers.lvlib"/>
 		<Item Name="Parse Input.vi" Type="VI" URL="../Parse Input.vi"/>
 		<Item Name="Rule.lvclass" Type="LVClass" URL="../Proto/Rule.lvclass"/>
