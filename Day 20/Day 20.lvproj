@@ -13,6 +13,7 @@
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Conjunction.lvclass" Type="LVClass" URL="../Conjunction/Conjunction.lvclass"/>
 		<Item Name="Evaluate Part 1.vi" Type="VI" URL="../Evaluate Part 1.vi"/>
+		<Item Name="Evaluate Part 2.vi" Type="VI" URL="../Evaluate Part 2.vi"/>
 		<Item Name="Flip Flop.lvclass" Type="LVClass" URL="../Flip Flop/Flip Flop.lvclass"/>
 		<Item Name="Helpers.lvlib" Type="Library" URL="../../Helpers/Helpers.lvlib"/>
 		<Item Name="Module.lvclass" Type="LVClass" URL="../Proto/Module.lvclass"/>
