@@ -11,9 +11,13 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Axis.ctl" Type="VI" URL="../Proto/Axis.ctl"/>
 		<Item Name="Evaluate Part 1.vi" Type="VI" URL="../Evaluate Part 1.vi"/>
 		<Item Name="Hailstone.lvclass" Type="LVClass" URL="../Proto/Hailstone.lvclass"/>
 		<Item Name="Helpers.lvlib" Type="Library" URL="../../Helpers/Helpers.lvlib"/>
+		<Item Name="Hi Res Arithm Test.lvclass" Type="LVClass" URL="../Hi Res Arithm Test/Hi Res Arithm Test.lvclass"/>
+		<Item Name="High Res Arithmetic.lvclass" Type="LVClass" URL="../High Res Arithmetic/High Res Arithmetic.lvclass"/>
+		<Item Name="Plane.ctl" Type="VI" URL="../Proto/Plane.ctl"/>
 		<Item Name="Tests.lvclass" Type="LVClass" URL="../Tests/Tests.lvclass"/>
 		<Item Name="Trace.lvclass" Type="LVClass" URL="../Trace/Trace.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -26,6 +30,7 @@
 				<Item Name="Get LV Class Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Name.vi"/>
 				<Item Name="LUnit Runnable.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Astemes/LUnit/LUnit Runnable.lvclass"/>
 				<Item Name="NI_Data Type.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/Data Type/NI_Data Type.lvlib"/>
+				<Item Name="NI_Gmath.lvlib" Type="Library" URL="/&lt;vilib&gt;/gmath/NI_Gmath.lvlib"/>
 				<Item Name="Test Case.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/Astemes/LUnit/Test Case.lvclass"/>
 				<Item Name="Trim Whitespace.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Trim Whitespace.vi"/>
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
